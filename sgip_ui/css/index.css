@@ -1,0 +1,67 @@
+.col-12 offset-sm-1 mt-3 {
+    position: relative;
+  }
+
+  .row mt-5 mb-5{
+    position: relative;
+
+}  
+  
+  .bottomleft {
+    position: absolute;
+    bottom: 15px;
+    left: 25px;
+    font-size: 23px;
+    font-weight: bold;
+    font-variant: normal;
+    color: grey;
+  }
+
+  .bottomleft1 {
+    position: absolute;
+    bottom: 15px;
+    left: 25px;
+    font-size: 23px;
+    font-weight: bold;
+    font-variant: normal;
+    color: whitesmoke;
+  }
+
+  .container-fluid{
+    position: absolute;
+    font-size: 27px;
+    font-variant: normal;
+  }
+  
+  .navbar-brand{
+    font-size: 30px;
+    font-weight: bold;
+    font-variant-caps: small-caps; 
+  }
+
+  .texto{
+    position: absolute;
+    bottom: 15px;
+    left: 720px;
+    font-size: 23px;
+    font-weight: bold;
+    font-variant: normal;
+    color: whitesmoke;
+  }
+
+  .texto1{
+    position: absolute;
+    bottom: 15px;
+    left: 1060px;
+    font-size: 23px;
+    font-weight: bold;
+    font-variant: normal;
+    color: whitesmoke;
+  }
+
+  .imagem_banner{
+    height: 226px;
+    width: 1800px;
+    background-color: powderblue;
+  }
+  

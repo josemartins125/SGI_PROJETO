@@ -1,0 +1,125 @@
+
+#header{
+    height: 600px;
+    width: 1885px;
+    }
+
+input[type=range][orient=vertical]
+{
+    writing-mode: bt-lr; /* IE */
+    -webkit-appearance: slider-vertical; /* Chromium */
+    width: 8px;
+    height: 500px;
+    padding: 0 5px;
+}
+
+.button {
+    background-color: #ffffff;
+    border-style: solid;
+    border-color: #000000;
+    color: rgb(12, 6, 6);
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+  }
+
+#button1 {border-radius: 100px;}
+.button2 {border-radius: 4px;}
+.button3 {border-radius: 8px;}
+.button4 {border-radius: 12px;}
+.button5 {border-radius: 50%;}
+
+.padding-left{
+    padding-top:10px ;
+    padding-left: 15px;
+}
+
+.ta {
+    padding-top: 10px;
+    padding-bottom:10px;
+    padding-left: 55px;
+}
+
+.customersupport{
+    padding-top: 70px;
+}
+
+.slider{
+    padding-left: 70px;
+}
+
+#product{
+    width: 100px;
+    height: 100px;
+}
+
+.material-symbols-outlined {
+    font-variation-settings:
+    'FILL' 0,
+    'wght' 400,
+    'GRAD' 0,
+    'opsz' 48
+  }
+  
+  
+  
+  #btnFavourite {
+    color: gray;
+  
+  }
+  
+  .md-inactive{
+    cursor: not-allowed;
+  }
+
+  /* NOVO STYLE PARA AS BOXES*/ 
+
+  .img-container {
+    width: 20%;
+    padding: 5px;
+    cursor: pointer;
+   
+  }
+  
+
+  .banner {
+    width: 100%;
+    background:url(http://s6.favim.com/orig/150112/background-cold-gif-nature-Favim.com-2380226.gif);
+    background-size: cover;
+    font-size: 30px;
+    color: #fff;
+    text-align: center;
+    padding: 40px 15px;
+  }
+  
+  .big-text {
+    font-size: 110px;
+    font-weight:800;
+    animation-delay: 1s;
+  }
+  .banner a {
+    display: inline-block;
+    background: #fff;
+    color: #36465d;
+    text-transform: uppercase;
+    padding: 15px;
+    text-decoration: none;
+    font-size: 25px;
+    transition: .3s;
+  }
+  .banner a:hover {
+    background: #333;
+    color: #fff;
+    padding: 15px 20px;
+  }
+
+
+  #border{
+    border: 2px solid rgb(92, 80, 80);
+    width:31%;
+  }
+
+  
